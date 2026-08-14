@@ -8,7 +8,7 @@
 - [Demo Scripts](https://github.com/user-attachments/files/31077582/py4academic.pdf)
 
 ## Information Share
-- [Sharing](https://github.com/user-attachments/files/31078179/Open.terminal.in.VS.code.docx)
+- [Sharing (Google Doc)](https://docs.google.com/document/d/1z4UHjNmcHcr5wLyHR4gV9sRJfc7xaR6IXZb6TBpM1kg/edit?usp=sharing)
 
 ## Schedule:
 - 9.00 am – 5:00pm (8-9 Jun 2026)
