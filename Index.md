@@ -8,11 +8,11 @@
 ## Handouts
 - [Slides](https://github.com/user-attachments/files/31077582/py4academic.pdf)
 - [Demo Scripts](https://github.com/user-attachments/files/31077582/py4academic.pdf)
-
+<br><br>
 
 ## Information Share
 - [Sharing (Google Doc)](https://docs.google.com/document/d/1z4UHjNmcHcr5wLyHR4gV9sRJfc7xaR6IXZb6TBpM1kg/edit?usp=sharing)
-
+<br><br>
 
 ## Schedule:
 - 9.00 am – 5:00pm (8-9 Jun 2026)
